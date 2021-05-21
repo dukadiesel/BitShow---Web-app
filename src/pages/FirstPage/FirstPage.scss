@@ -1,0 +1,23 @@
+.Main {
+  width: 100%;
+  max-width: 1020px;
+  margin: 0 auto;
+
+}
+
+.Show-Wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+img{
+  width: 100%
+}
+
+.Spinner{
+  min-height: calc(100vh - 185px);
+}
